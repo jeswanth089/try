@@ -22,25 +22,25 @@ let updateTimer;
 
 const music_list = [
   {
-    img: "telugu/leo/ratata.JPEG",
+    img: "telugu/leo/ratata.jpeg",
     name: "Ratata",
     artist: "Anirudh ravichander",
-    music: "telugu/leo/ratata.mp3",
+    music: "telugu/leo/Ratata.mp3",
   },
   {
-    img: "telugu/leo/bad.JPG",
+    img: "telugu/leo/bad.jpg",
     name: "Bad ass",
     artist: "Anirudh ravichander",
     music: "telugu/leo/[iSongs.info] 04 - Badass.mp3",
   },
   {
-    img: "telugu/leo/Ney-Ready.JPG",
+    img: "telugu/leo/Ney-Ready.jpg",
     name: "Naa ready",
     artist: "Anirudh ravichander",
     music: "telugu/leo/[iSongs.info] 06 - Ney Ready.mp3",
   },
   {
-    img: "telugu/leo/leo.JPG",
+    img: "telugu/leo/Leo.jpg",
     name: "Lokiverse",
     artist: "Anirudh ravichander",
     music: "telugu/leo/[iSongs.info] 07 - Lokiverse 2.0.mp3",
