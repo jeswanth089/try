@@ -49,13 +49,13 @@ const music_list = [
     img: "pos.webp",
     name: "Sittharala Sirapadu",
     artist: "thaman",
-    music: "ala vikunta/[iSongs.info] 07 - Sittharala Sirapadu.mp3",
+    music: "telugu/ala vikunta/[iSongs.info] 07 - Sittharala Sirapadu.mp3",
   },
   {
     img: "pos.webp",
     name: "butta bomma",
     artist: "thaman",
-    music: "ala vikunta/[iSongs.info] 04 - ButtaBomma.mp3",
+    music: "telugu/ala vikunta/[iSongs.info] 04 - ButtaBomma.mp3",
   },
 ];
 
